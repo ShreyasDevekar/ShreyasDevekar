@@ -13,7 +13,7 @@ I’m Shreyas Devekar, and I engineer quality not by chasing bugs, but by tracin
 #### 💬 Let's Connect
 
 - 🖇 [LinkedIn](https://www.linkedin.com/in/shreyas-devekar-446b9a12a/)
-- 🌐 [Portfolio Website](https://shreyasdevekar.online)
-- 📫 Drop me a note: `shreyasdevekar@gmail.com`
+- 🌐 [https://shreyasdevekar.online](https://shreyasdevekar.online)
+- 📧 [shreyasdevekar@gmail.com](mailto:shreyasdevekar@gmail.com)
 
 ---
