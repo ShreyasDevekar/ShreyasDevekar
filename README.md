@@ -8,7 +8,7 @@
 
 #### About Me
 
-I’m Shreyas Devekar, and I engineer quality not by chasing bugs, but by tracing the story behind every failure. My job as a SDET isn’t to break things—it’s to ensure what’s built has the resilience to withstand reality. I am building **robust test automation frameworks**, solving real-world QA challenges, and ensuring **software works just as well in production as it does in theory**. Whether it’s UI, API, mobile, or CI/CD pipelines — I bring **structure to the chaos** of modern development with clean, scalable test strategies.
+I’m Shreyas Devekar, and I engineer quality not by chasing bugs, but by tracing the story behind every failure. My job as a SDET isn’t to break things—it’s to ensure what’s built has the resilience to withstand reality. I am building **scalable test automation frameworks**, solving real-world QA challenges, and ensuring **software works just as well in production as it does in theory**. Whether it’s UI, API, mobile, or CI/CD pipelines — I bring **structure to the chaos** of modern development with clean, scalable test strategies.
 
 #### 💬 Let's Connect
 
